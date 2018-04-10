@@ -1,0 +1,65 @@
+[2018-03-05 15:15:40:279] [videoyiAutoTest.videoyiTestNGMain] [INFO] [44] [# # # # # # # # # # # # # # # # # # # # # # # # # # # ]
+[2018-03-05 15:15:40:282] [videoyiAutoTest.videoyiTestNGMain] [INFO] [45] [# # # # # # # # # #TEST Has Started# # # # # # # # # #]
+[2018-03-05 15:15:40:285] [common.DriverManager] [INFO] [43] [# # # # # # # # #Executing on CHROME# # # # # # # # #]
+[2018-03-05 15:15:45:188] [videoyiAutoTest.videoyiTestNGMain] [INFO] [57] [# # # # # # # # #Open Test Application# # # # # # # #]
+[2018-03-05 15:15:48:199] [videoyiTestCase.VideoyiLoginTest] [INFO] [42] [-----testVideoyiLogin Start.-----]
+[2018-03-05 15:15:49:356] [videoyiTestCase.VideoyiLoginTest] [INFO] [50] [-----testVideoyiLogin 输入用户名 OK.-----]
+[2018-03-05 15:15:50:409] [videoyiTestCase.VideoyiLoginTest] [INFO] [55] [-----testVideoyiLogin 输入密码 OK.-----]
+[2018-03-05 15:15:51:751] [videoyiTestCase.VideoyiLoginTest] [INFO] [60] [-----testVideoyiLogin 点击登录 OK.-----]
+[2018-03-05 15:15:51:760] [videoyiTestCase.VideoyiLoginTest] [INFO] [65] [-----testVideoyiLogin verify url：http://test.videoyi.cn/workorder/index-----]
+[2018-03-05 15:15:52:761] [videoyiTestCase.VideoyiLoginTest] [INFO] [69] [-----testVideoyiLogin Success.-----]
+[2018-03-05 15:15:55:764] [videoyiTestCase.MemberManagerTest] [INFO] [44] [-----testMemberManager Start.-----]
+[2018-03-05 15:15:55:970] [videoyiTestCase.MemberManagerTest] [INFO] [48] [-----testMemberManager 导航：客户管理 OK.-----]
+[2018-03-05 15:15:55:978] [videoyiTestCase.MemberManagerTest] [INFO] [54] [-----testMemberManager verify url：http://test.videoyi.cn/member/index-----]
+[2018-03-05 15:15:56:979] [videoyiTestCase.MemberManagerTest] [INFO] [58] [-----testMemberManager Success.-----]
+[2018-03-05 15:15:57:987] [videoyiTestCase.MemberManagerTest] [INFO] [78] [-----testCreateMember Start.-----]
+[2018-03-05 15:15:59:224] [videoyiTestCase.MemberManagerTest] [INFO] [83] [-----testCreateMember 点击新建客户 OK.-----]
+[2018-03-05 15:16:03:240] [videoyiTestCase.MemberManagerTest] [ERROR] [145] [-----testCreateMember failed.-----]
+[2018-03-05 15:16:03:240] [videoyiTestCase.MemberManagerTest] [ERROR] [146] [org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=64.0.3282.119)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.01 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'DESKTOP-E75EO5A', ip: '172.16.1.191', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1), userDataDir=C:\Users\pc06\AppData\Local\Temp\scoped_dir19276_14464}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.119, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: bb4afcb2a3f00da311db535620d61759
+*** Element info: {Using=id, value=username}]
+[2018-03-05 15:16:04:249] [videoyiTestCase.MemberManagerTest] [INFO] [162] [-----testSearchMember Start.-----]
+[2018-03-05 15:16:08:268] [videoyiTestCase.MemberManagerTest] [ERROR] [181] [-----testSearchMember failed.-----]
+[2018-03-05 15:16:08:269] [videoyiTestCase.MemberManagerTest] [ERROR] [182] [org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=64.0.3282.119)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.02 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'DESKTOP-E75EO5A', ip: '172.16.1.191', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1), userDataDir=C:\Users\pc06\AppData\Local\Temp\scoped_dir19276_14464}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.119, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: bb4afcb2a3f00da311db535620d61759
+*** Element info: {Using=id, value=username}]
+[2018-03-05 15:16:09:272] [videoyiTestCase.MemberManagerTest] [INFO] [198] [-----testEditMember Start.-----]
+[2018-03-05 15:16:13:280] [videoyiTestCase.MemberManagerTest] [ERROR] [266] [-----testEditMember failed.-----]
+[2018-03-05 15:16:13:280] [videoyiTestCase.MemberManagerTest] [ERROR] [267] [org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=64.0.3282.119)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.01 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'DESKTOP-E75EO5A', ip: '172.16.1.191', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1), userDataDir=C:\Users\pc06\AppData\Local\Temp\scoped_dir19276_14464}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.119, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: bb4afcb2a3f00da311db535620d61759
+*** Element info: {Using=xpath, value=//*[@id='right_middle_a']/div[1]/table/tbody/tr[2]/td[9]/input}]
+[2018-03-05 15:16:14:284] [videoyiTestCase.MemberManagerTest] [INFO] [283] [-----testDeleteMemberCancel Start.-----]
+[2018-03-05 15:16:21:297] [videoyiTestCase.ProductManagerTest] [INFO] [43] [-----testProductManager Start.-----]
+[2018-03-05 15:16:25:307] [videoyiTestCase.ProductManagerTest] [ERROR] [57] [-----testProductManager failed.-----]
+[2018-03-05 15:16:25:307] [videoyiTestCase.ProductManagerTest] [ERROR] [58] [org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=64.0.3282.119)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.01 seconds
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'DESKTOP-E75EO5A', ip: '172.16.1.191', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1), userDataDir=C:\Users\pc06\AppData\Local\Temp\scoped_dir19276_14464}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=64.0.3282.119, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: bb4afcb2a3f00da311db535620d61759
+*** Element info: {Using=id, value=rightbg00000090}]
+[2018-03-05 15:16:26:310] [videoyiTestCase.ProductManagerTest] [INFO] [74] [-----testCreateBaikeProduct Start.-----]

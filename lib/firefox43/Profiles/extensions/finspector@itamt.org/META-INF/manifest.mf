@@ -1,0 +1,107 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: snt/Kj5qkjoHfOVolVWqdw==
+SHA1-Digest: qoOjLjA9lgq/qYTEYQqTP6IYZpM=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NqwSl2VxRv2v5aHx2PQsjQ==
+SHA1-Digest: FAtwP2hs37L20cxOWLGUWNjuFkw=
+
+Name: content/finspector.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ouu4dN+f2ztJjyeghlGEbQ==
+SHA1-Digest: QunAgmIjTuq+WRi+z3ayVLLEZ1o=
+
+Name: content/finspector.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VFDiOAjxbOKT2dh7qZaHpg==
+SHA1-Digest: 1zJYW5tpvIcNKRSf6Pqgi0rtEMc=
+
+Name: content/finspector.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F/5CUyn6rqzAS0N6Wv/mpg==
+SHA1-Digest: 4eAht2Ebl0Q3RQvrx3MAdNrdzC8=
+
+Name: content/Io.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LzCUm16wuZvmmuRSE4QqNA==
+SHA1-Digest: hhzutFI/QMx6H8LjJTePpqra81Q=
+
+Name: content/prefutils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2tWQazWHKoijnk8aM2lhNw==
+SHA1-Digest: NbeT8UieCSlzMzcY45UdulrG5Fk=
+
+Name: content/tInspectorConsoleMonitor.swf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: w6/a1S1axsiQu+j4G0V/Aw==
+SHA1-Digest: PGBdwPf8EBmVXp+B0KqP4u6sxYQ=
+
+Name: content/tInspectorPreloader.swf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9+QBqcrodzJo0p5FxAGolA==
+SHA1-Digest: SIS3cIawzrzKrI+23+VDzomOAXU=
+
+Name: content/Util.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ur3cpCrWeA/PMglUYWmlBA==
+SHA1-Digest: uG14YGRdHIHKBKUturpPhZzwayI=
+
+Name: defaults/preferences/finspector.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CyWXS91Yt9IdvLu7wx+BAg==
+SHA1-Digest: GNZE4nX/5tZmz76yGiM9ZAPf/To=
+
+Name: locale/en-US/finspector.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5p6PxfmHNAyyPLhPMCViLw==
+SHA1-Digest: RpriW7glx9cyeMnQ36ZQTXq2I2o=
+
+Name: locale/en-US/finspector.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: keE2Nq+gmPu13fg8LfinGA==
+SHA1-Digest: cKpO3SLxzLzFfs35znKvQ2lScIE=
+
+Name: locale/zh-CN/finspector.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GK8fmXT64eiSfakxDOQ2kg==
+SHA1-Digest: pkjILKY7VtDiT5fopFHXgTONEBA=
+
+Name: locale/zh-CN/finspector.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: y1AeWpSGASN2Riko7mV4nw==
+SHA1-Digest: TvZpn4KGt0clBHfre0WiQoD6wdQ=
+
+Name: skin/finspector.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: v+ZSrhqPEc/S1JuAuHkGiw==
+SHA1-Digest: qtWPSj6BctGYv+AodnS54PrHMx8=
+
+Name: skin/finspector_16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kCQabqNSTbRo9DIkX8Wy8Q==
+SHA1-Digest: 9g9CJGGpLt02GPAFziX2gSE7aSg=
+
+Name: skin/finspector_48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7f9zpLPnyn9v4fwGLFyTyQ==
+SHA1-Digest: QuGcIFDtI4GBATU8124o2N0LfA8=
+
+Name: skin/finspector_gray_16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fAQlqmgbdmxTeTl+n/u2Ug==
+SHA1-Digest: VH3Or7fI2YAbH2+v6aXAHVRqmWk=
+
+Name: skin/info.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GbrN/8DsaTZ7z+CMlv1aZA==
+SHA1-Digest: mjapW4Ycgl0aUSTvgremopMfpDU=
+
+Name: skin/info_gray.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IIDs2sTGNnxSqKo9/1szpQ==
+SHA1-Digest: fXEOau32xddX9SOEZX5iroVV72w=
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54126" started-at="2018-03-07T07:22:18Z" finished-at="2018-03-07T07:23:13Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="54126" started-at="2018-03-07T07:22:18Z" finished-at="2018-03-07T07:23:13Z">
+      <class name="videoyiAutoTest.videoyiTestNGMain">
+        <test-method status="PASS" signature="launchBrowser(java.lang.String)[pri:0, instance:videoyiAutoTest.videoyiTestNGMain@27efef64]" name="launchBrowser" is-config="true" duration-ms="4938" started-at="2018-03-07T15:22:18Z" finished-at="2018-03-07T15:22:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:videoyiAutoTest.videoyiTestNGMain@27efef64]" name="closeBrowser" is-config="true" duration-ms="1049" started-at="2018-03-07T15:23:12Z" finished-at="2018-03-07T15:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- videoyiAutoTest.videoyiTestNGMain -->
+      <class name="videoyiTestCase.MemberManagerTest">
+        <test-method status="PASS" signature="testMemberManager()[pri:0, instance:videoyiTestCase.MemberManagerTest@47c62251]" name="testMemberManager" duration-ms="4202" started-at="2018-03-07T15:22:31Z" finished-at="2018-03-07T15:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMemberManager -->
+        <test-method status="PASS" signature="testCreateMember()[pri:0, instance:videoyiTestCase.MemberManagerTest@47c62251]" name="testCreateMember" duration-ms="16183" started-at="2018-03-07T15:22:36Z" finished-at="2018-03-07T15:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateMember -->
+        <test-method status="PASS" signature="testSearchMember()[pri:0, instance:videoyiTestCase.MemberManagerTest@47c62251]" name="testSearchMember" duration-ms="3249" started-at="2018-03-07T15:22:52Z" finished-at="2018-03-07T15:22:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchMember -->
+        <test-method status="PASS" signature="testEditMember()[pri:0, instance:videoyiTestCase.MemberManagerTest@47c62251]" name="testEditMember" duration-ms="13349" started-at="2018-03-07T15:22:55Z" finished-at="2018-03-07T15:23:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEditMember -->
+        <test-method status="PASS" signature="testDeleteMemberCancel()[pri:0, instance:videoyiTestCase.MemberManagerTest@47c62251]" name="testDeleteMemberCancel" duration-ms="3123" started-at="2018-03-07T15:23:08Z" finished-at="2018-03-07T15:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteMemberCancel -->
+      </class> <!-- videoyiTestCase.MemberManagerTest -->
+      <class name="videoyiTestCase.VideoyiLoginTest">
+        <test-method status="PASS" signature="testVideoyiLogin()[pri:0, instance:videoyiTestCase.VideoyiLoginTest@6f7fd0e6]" name="testVideoyiLogin" duration-ms="8016" started-at="2018-03-07T15:22:23Z" finished-at="2018-03-07T15:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVideoyiLogin -->
+      </class> <!-- videoyiTestCase.VideoyiLoginTest -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>

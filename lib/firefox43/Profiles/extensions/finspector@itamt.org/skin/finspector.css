@@ -1,0 +1,63 @@
+/*
+ * Flash identifiers.
+*/
+object[classid*=":D27CDB6E-AE6D-11cf-96B8-444553540000"],
+object[codebase*="swflash.cab"],
+object[data*=".swf"],
+object[type="application/x-shockwave-flash"],
+object[src*=".swf"],
+embed[type="application/x-shockwave-flash"],
+embed[src*=".swf"],
+embed[allowscriptaccess],
+embed[flashvars],
+embed[wmode]
+{ -moz-binding: url("chrome://finspector/content/finspector.xml#flash") !important; }
+
+#finspectorStatusBarBtn {
+	cursor: pointer;
+}
+
+#finspectorBtnImg {
+	width: 16px;
+	height: 16px;
+	list-style-image: url(chrome://finspector/skin/finspector_16.png);
+}
+
+#finspectorBtnImg[state="on"] {
+	list-style-image: url(chrome://finspector/skin/finspector_16.png);
+}
+
+#finspectorBtnImg[state="off"] {
+	list-style-image: url(chrome://finspector/skin/finspector_gray_16.png);
+}
+
+#finspectorBtnBigImg {
+	width: 24px;
+	height: 24px;
+	list-style-image: url(chrome://finspector/skin/finspector_48.png);
+}
+
+#finspectorLogo {
+	width: 96px;
+	height: 96px;
+	image: url(chrome://finspector/skin/finspector_48.png);
+}
+
+#getFlashPlayer:link {
+	margin: 20px 4px 10px 4px;
+	color: #99cc00;
+}
+
+#getFlashPlayer:hover {
+	text-decoration: underline;
+}
+
+.fInspectorPluginGuideBtn{
+	width: 	16px;
+	height: 16px;
+	list-style-image:	url(chrome://finspector/skin/info.gif);
+}
+
+.fInspectorPluginGuideBtn:hover{
+	list-style-image:	url(chrome://finspector/skin/info_gray.gif);
+}
